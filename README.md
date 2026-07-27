@@ -1,1 +1,1 @@
-# Proyecto-Integrador-An-lisis-de-Datos-para-Negocios-Digitales
+# Proyecto-Integrador-Analisis-de-Datos-para-Negocios-Digitales
