@@ -86,4 +86,20 @@ Los escenarios del videojuego están inspirados en distintos entornos naturales.
 El videojuego se adquiere mediante un pago único. Una vez dentro, el jugador puede comprar artículos cosméticos, como skins, accesorios y elementos de personalización. Estos artículos no proporcionan ventajas competitivas ni modifican directamente la capacidad del jugador para completar los niveles.
 
 ---
+## Planteamiento del problema 
+
+El videojuego registra jugadores, sesiones, progreso y compras de skins. Sin embargo, no se dispone de un sistema analítico que permita comprender de manera integral: 
+
+- En qué localidades se encuentran los jugadores más activos.
+- Qué zonas generan mayor cantidad de compras. 
+- Cuáles skins son las más y menos vendidas. 
+- Qué jugadores presentan riesgo de abandono. 
+- En qué días y horarios se utiliza más el videojuego. 
+- Qué características se relacionan con la compra de skins. 
+- Qué campañas o promociones generan mejores resultados. 
+- Cómo evoluciona la retención de los jugadores. 
+
+Esta falta de información dificulta tomar decisiones relacionadas con actualizaciones, diseño de skins, precios, promociones, campañas y experiencia de usuario.
+
+---
 
