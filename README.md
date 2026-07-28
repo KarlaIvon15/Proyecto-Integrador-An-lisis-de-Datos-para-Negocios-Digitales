@@ -47,3 +47,23 @@
 36. [Referencias](#referencias)
 
 ---
+## Descripción del proyecto
+
+Este repositorio contiene el desarrollo del proyecto integrador de la materia de
+*Análisis de Datos*, enfocado en estudiar el comportamiento de los jugadores y la
+monetización del videojuego *EcoAventura*.
+
+El videojuego está dirigido a niños de entre 6 y 11 años y utiliza un modelo de
+monetización basado en:
+
+- Un pago único para obtener acceso al videojuego.
+- Compras opcionales de skins y artículos cosméticos dentro del juego.
+
+El proyecto utiliza datos completamente simulados correspondientes al municipio de
+Xicotepec de Juárez, Puebla, y a distintas localidades pertenecientes al municipio.
+
+A través de técnicas de simulación, limpieza, transformación, análisis exploratorio,
+segmentación, retención, cálculo de indicadores y visualización, se busca identificar
+patrones que ayuden a mejorar la actividad, retención y monetización del videojuego.
+
+---
