@@ -67,3 +67,23 @@ segmentación, retención, cálculo de indicadores y visualización, se busca id
 patrones que ayuden a mejorar la actividad, retención y monetización del videojuego.
 
 ---
+## Contexto del videojuego
+
+EcoAventura es un videojuego educativo diseñado principalmente para niños de entre 6 y 11 años.
+
+La dinámica principal consiste en:
+
+- Completar niveles.
+- Superar misiones.
+- Obtener logros.
+- Desbloquear contenido.
+- Personalizar personajes mediante skins.
+- Participar en eventos temporales.
+- Explorar escenarios relacionados con el cuidado del medio ambiente y la conservación de los recursos naturales.
+
+Los escenarios del videojuego están inspirados en distintos entornos naturales. En cada escenario, el jugador debe resolver actividades educativas relacionadas con la separación de residuos.
+
+El videojuego se adquiere mediante un pago único. Una vez dentro, el jugador puede comprar artículos cosméticos, como skins, accesorios y elementos de personalización. Estos artículos no proporcionan ventajas competitivas ni modifican directamente la capacidad del jugador para completar los niveles.
+
+---
+
