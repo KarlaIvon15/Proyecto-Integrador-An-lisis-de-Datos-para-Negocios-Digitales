@@ -103,3 +103,12 @@ Esta falta de información dificulta tomar decisiones relacionadas con actualiza
 
 ---
 
+## Justificación
+
+El desarrollo de este proyecto se realiza debido a la necesidad de contar con un sistema de análisis de datos que permita transformar la información generada por el videojuego EcoAventura en indicadores útiles para la toma de decisiones. Aunque el videojuego registra datos sobre jugadores, sesiones, progreso y compras de artículos cosméticos, estos datos por sí solos no proporcionan información estratégica si no son procesados y analizados.
+
+Desde una perspectiva técnica, el proyecto implementa un proceso de análisis de datos que incluye la simulación, limpieza, transformación, integración y visualización de la información, permitiendo identificar patrones de comportamiento, medir la retención de jugadores, analizar el rendimiento de las campañas promocionales y evaluar la aceptación de los artículos cosméticos. Estos resultados facilitan la generación de indicadores clave (KPIs) que apoyan la optimización de la experiencia del usuario y de las estrategias de monetización.
+
+Asimismo, el proyecto permite aplicar metodologías y herramientas de análisis de datos para convertir grandes volúmenes de información en conocimiento útil, demostrando la importancia del procesamiento y análisis de datos como apoyo para la toma de decisiones basada en evidencia dentro del desarrollo y la gestión de videojuegos.
+
+---
