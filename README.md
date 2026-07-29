@@ -224,3 +224,16 @@ Los principales interesados en los resultados del proyecto son:
 ## Fuentes de datos
 
 El proyecto integra datos simulados desde diferentes formatos.
+
+### Fuente 1: archivos CSV
+
+Contienen información estructurada de:
+
+- Jugadores.
+- Tutores.
+- Catálogo de skins.
+- Compras del videojuego.
+- Compras de skins.
+- Campañas.
+- Progreso.
+
