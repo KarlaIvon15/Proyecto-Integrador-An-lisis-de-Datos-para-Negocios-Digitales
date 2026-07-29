@@ -198,3 +198,9 @@ Las skins no proporcionan ventajas competitivas y su función es únicamente est
 
 ---
 
+## Alcance geográfico
+ 
+El presente proyecto tiene como alcance geográfico el municipio de Xicotepec de Juárez, ubicado en el estado de Puebla, México, incluyendo sus principales localidades. Los datos utilizados para el análisis corresponden a información simulada representativa de esta región, con el propósito de estudiar el comportamiento de los jugadores, la retención y la monetización del videojuego EcoAventura en un contexto local.
+
+La delimitación geográfica permite realizar un análisis enfocado y generar resultados que sirvan como base para la toma de decisiones durante la etapa inicial del videojuego. No obstante, la arquitectura del proyecto y la metodología de análisis están diseñadas para facilitar su escalabilidad, permitiendo incorporar información de otras regiones de México e incluso de otros países conforme el videojuego amplíe su cobertura y disponibilidad en el futuro.
+
