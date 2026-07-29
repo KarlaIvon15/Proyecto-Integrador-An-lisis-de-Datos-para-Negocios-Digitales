@@ -237,3 +237,12 @@ Contienen información estructurada de:
 - Campañas.
 - Progreso.
 
+### Fuente 2: archivos JSON
+
+Contienen información de:
+
+- Sesiones de juego.
+- Eventos dentro del videojuego.
+- Visitas a la tienda.
+- Visualización de skins.
+- Intentos de compra.
