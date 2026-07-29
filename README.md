@@ -221,3 +221,6 @@ Los principales interesados en los resultados del proyecto son:
 | Padre, madre o tutor | Revisar tiempo de juego y compras |
 
 ---
+## Fuentes de datos
+
+El proyecto integra datos simulados desde diferentes formatos.
