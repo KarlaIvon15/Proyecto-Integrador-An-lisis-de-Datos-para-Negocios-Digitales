@@ -168,3 +168,33 @@ simulados y no incluyen nombres, direcciones, teléfonos, correos electrónicos 
 datos personales reales.
 
 ---
+
+## Modelo de monetización
+
+El videojuego utiliza dos fuentes principales de ingresos.
+
+### Pago inicial
+
+El usuario realiza un pago único para adquirir el videojuego.
+
+Ejemplo de precios simulados:
+
+- Precio normal: $249 MXN.
+- Precio promocional: $199 MXN.
+
+### Compras internas
+
+Los jugadores pueden adquirir artículos cosméticos opcionales.
+
+| Tipo de artículo | Rango de precio simulado |
+|---|---:|
+| Skin común | $19 a $29 MXN |
+| Skin poco común | $35 a $49 MXN |
+| Skin especial | $55 a $69 MXN |
+| Skin de evento | $79 MXN |
+| Paquete de skins | $99 a $149 MXN |
+
+Las skins no proporcionan ventajas competitivas y su función es únicamente estética.
+
+---
+
