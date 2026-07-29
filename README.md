@@ -112,3 +112,28 @@ Desde una perspectiva técnica, el proyecto implementa un proceso de análisis d
 Asimismo, el proyecto permite aplicar metodologías y herramientas de análisis de datos para convertir grandes volúmenes de información en conocimiento útil, demostrando la importancia del procesamiento y análisis de datos como apoyo para la toma de decisiones basada en evidencia dentro del desarrollo y la gestión de videojuegos.
 
 ---
+
+## Objetivos
+
+### Objetivo general
+
+Analizar el comportamiento de los jugadores, las sesiones de juego, el progreso y las
+compras de skins mediante herramientas de analítica de datos, con la finalidad de
+identificar patrones de actividad, retención y monetización que apoyen la toma de
+decisiones relacionadas con contenido, precios, promociones y experiencia de usuario.
+
+### Objetivos específicos
+
+1. Identificar las localidades con mayor cantidad de jugadores registrados.
+2. Determinar en qué localidades se juega durante más tiempo.
+3. Clasificar a los jugadores de acuerdo con su nivel de actividad.
+4. Calcular la retención de jugadores a 7, 30 y 90 días.
+5. Analizar cuáles skins generan más unidades vendidas.
+6. Identificar cuáles skins generan mayores ingresos.
+7. Detectar skins con baja demanda.
+8. Analizar la relación entre tiempo de juego y compras.
+9. Evaluar la conversión de jugadores activos a compradores.
+10. Construir dashboards para el administrador y para el jugador o tutor.
+11. Formular recomendaciones sustentadas en los resultados.
+
+---
