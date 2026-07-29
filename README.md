@@ -137,3 +137,20 @@ decisiones relacionadas con contenido, precios, promociones y experiencia de usu
 11. Formular recomendaciones sustentadas en los resultados.
 
 ---
+
+## Preguntas de negocio
+
+El proyecto busca responder las siguientes preguntas:
+
+1. ¿En qué localidades se concentra la mayor cantidad de jugadores?
+2. ¿En qué localidades se acumula más tiempo de juego?
+3. ¿Cuáles son los días y horarios de mayor actividad?
+4. ¿Qué porcentaje de jugadores se encuentra activo, ocasional, en riesgo o inactivo?
+5. ¿Qué skins son las más vendidas?
+6. ¿Qué skins generan más ingresos?
+7. ¿Qué skins presentan menor demanda?
+8. ¿Qué porcentaje de jugadores activos compra al menos una skin?
+9. ¿Existe relación entre tiempo de juego, nivel alcanzado y compra de skins?
+10. ¿Qué jugadores presentan mayor riesgo de abandono?
+
+---
