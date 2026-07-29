@@ -204,3 +204,20 @@ El presente proyecto tiene como alcance geográfico el municipio de Xicotepec de
 
 La delimitación geográfica permite realizar un análisis enfocado y generar resultados que sirvan como base para la toma de decisiones durante la etapa inicial del videojuego. No obstante, la arquitectura del proyecto y la metodología de análisis están diseñadas para facilitar su escalabilidad, permitiendo incorporar información de otras regiones de México e incluso de otros países conforme el videojuego amplíe su cobertura y disponibilidad en el futuro.
 
+---
+
+## Stakeholders
+
+Los principales interesados en los resultados del proyecto son:
+
+| Stakeholder | Necesidad |
+|---|---|
+| Responsable del videojuego | Conocer el desempeño general |
+| Equipo de desarrollo | Identificar problemas de uso y retención |
+| Responsable de monetización | Evaluar ventas e ingresos |
+| Responsable de marketing | Analizar campañas y promociones |
+| Analista de datos | Procesar e interpretar la información |
+| Jugador | Consultar progreso, logros y artículos |
+| Padre, madre o tutor | Revisar tiempo de juego y compras |
+
+---
