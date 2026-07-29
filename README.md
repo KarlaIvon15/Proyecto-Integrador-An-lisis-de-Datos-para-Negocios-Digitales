@@ -154,3 +154,17 @@ El proyecto busca responder las siguientes preguntas:
 10. ¿Qué jugadores presentan mayor riesgo de abandono?
 
 ---
+
+## Público objetivo
+
+El videojuego está dirigido principalmente a:
+
+- Niños de entre 6 y 11 años.
+- Padres, madres o tutores responsables de las compras.
+- Usuarios ubicados en Xicotepec de Juárez y localidades pertenecientes al municipio.
+
+Para proteger la privacidad de los menores, los datos utilizados en el proyecto son
+simulados y no incluyen nombres, direcciones, teléfonos, correos electrónicos ni otros
+datos personales reales.
+
+---
