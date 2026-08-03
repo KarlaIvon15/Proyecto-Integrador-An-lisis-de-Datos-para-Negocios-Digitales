@@ -246,3 +246,13 @@ Contienen información de:
 - Visitas a la tienda.
 - Visualización de skins.
 - Intentos de compra.
+
+---
+## Arquitectura de datos con SQLite
+
+Para el almacenamiento y gestión de la información, el proyecto utiliza **SQLite** como motor de base de datos relacional ligero. SQLite permite consolidar los datos extraídos y limpios de las fuentes CSV y JSON en un archivo `.db` estructurado, facilitando la ejecución de consultas SQL complejas para alimentar los dashboards y responder a las preguntas de negocio.
+
+```text
+  [ Archivos CSV ]  ──┐
+                      ├──>  [ Proceso ETL / Python ]  ──>  [ Base de Datos SQLite ]  ──>  [ Streamlit / Dashboards ]
+  [ Archivos JSON ] ──┘                                      (ecoaventura.db)
